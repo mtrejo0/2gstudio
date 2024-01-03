@@ -6,6 +6,7 @@ import Body1 from './components/Body1';
 import "./App.css"
 import PropertyList from './components/PropertyList';
 import Metrics from './components/Metrics';
+import StreetViewSlideshow from './components/StreetViewSlideshow';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Body1/>
       <PropertyList/>
       <Metrics/>
+      {/* <StreetViewSlideshow/> */}
       <Footer />
     </div>
   );
