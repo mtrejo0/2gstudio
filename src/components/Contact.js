@@ -73,7 +73,8 @@ const styles = {
     margin: '0 auto', // This centers the form
     marginBottom: "128px",
     color: "white",
-    backgroundColor: "black"
+    backgroundColor: "black",
+    borderRadius: "4px"
   },
   label: {
     display: 'flex',
