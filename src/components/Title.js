@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Body1 = () => {
+const Title = () => {
     return (
         <div style={styles.container}>
              <p style={styles.tagline}>
@@ -10,7 +10,7 @@ const Body1 = () => {
                 2G STUDIO
             </p>
             <img 
-                src={'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bellas_Artes_01.jpg/2560px-Bellas_Artes_01.jpg'}
+                src={'https://www.mydomaine.com/thmb/bepet4VMGUG70sCLFNQRdZm9bbg=/2048x0/filters:no_upscale():strip_icc()/SuCasaDesign-Modern-9335be77ca0446c7883c5cf8d974e47c.jpg'}
                 style={styles.image}
                 alt="Architecture"
             />
@@ -44,4 +44,4 @@ const styles = {
     }
 };
 
-export default Body1;
+export default Title;

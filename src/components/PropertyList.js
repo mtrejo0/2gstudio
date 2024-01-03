@@ -5,21 +5,21 @@ const properties = [
     id: 1,
     title: 'Monter Carlo Flat',
     address: '2464 Royal Ln. Mesa, New Jersey 45463',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bellas_Artes_01.jpg/2560px-Bellas_Artes_01.jpg',
+    imageUrl: 'https://www.mydomaine.com/thmb/WLvbgTPsAoq4QPsbLkYpxy3Ugz0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OutEast-14371a850d1b4747b41a9f5ec31c7afd.jpg',
     imageWide: false
   },
   {
     id: 2,
     title: 'Patra Land Smart Home',
     address: '2118 Thornridge Cir. Syracuse, Connecticut 35624',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bellas_Artes_01.jpg/2560px-Bellas_Artes_01.jpg',
+    imageUrl: 'https://www.mydomaine.com/thmb/nyzFcv5BeMO125ZWs4xpo3FRbek=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/costanera-1024x610-a747d459be304b8caa70e7f2653348e4.jpg',
     imageWide: false
   },
   {
     id: 3,
     title: 'Patra Land Smart Home',
     address: '2118 Thornridge Cir. Syracuse, Connecticut 35624',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bellas_Artes_01.jpg/2560px-Bellas_Artes_01.jpg',
+    imageUrl: 'https://www.mydomaine.com/thmb/wsLfQSiWZV2haNtt_0g5MAof05Y=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PerlmutterFreiwald-7b1be0af77db44a48d5c6d9ef3c1f7ec.jpg',
     imageWide: true
   },
 ];
@@ -73,12 +73,12 @@ const styles = {
   },
   card: {
     boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
-    borderRadius: '4px',
+    
     overflow: 'hidden',
   },
   image: {
-    width: '100%',
-    height: 'auto'
+    width: '600px',
+    height: '500px'
   },
   imageWide: {
     width: '100vw',
