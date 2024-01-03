@@ -1,3 +1,9 @@
 .app {
   font-family: 'Trebuchet MS', sans-serif;
 }
+
+:root {
+  --main-color: #000;
+  /* --main-color: #fbd0c0; */
+  background-color: var(--main-color);
+}
