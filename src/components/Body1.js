@@ -32,7 +32,7 @@ const styles = {
         marginBottom: "64px"
     },
     title: {
-        fontSize: "200px",
+        fontSize: "15vw",
         fontWeight: "bold",
         marginBottom: "64px",
         marginTop: "64px"
